@@ -64,9 +64,9 @@ This project analyzes checkout funnel performance in an e-commerce platform to i
 ## 📷 Dashboard Preview
 
 ![Dashboard](dashboard/dashboard_screenshot.png)
-## 🔗 Live Dashboard
+## 🔗 Live Dashboardd
 
-[View Dashboard]([LINK_LOOKER_STUDIO](https://datastudio.google.com/reporting/207fa692-b582-4e92-9b57-956f48ea9aec))
+[View Dashboard](https://datastudio.google.com/reporting/207fa692-b582-4e92-9b57-956f48ea9aec)
 ---
 
 ## 📂 Dataset
